@@ -1,0 +1,19 @@
+
+
+div.fimg {
+    position: relative;
+    top: 0;
+    display: inline-block;
+}
+
+div#par {
+    text-align: center;
+}
+
+div#rel {
+    position: relative;
+}
+
+div.tab {
+    margin: 0 auto;
+}
